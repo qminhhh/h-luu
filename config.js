@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `dậy đi con đĩiii
     dit me mayyyy
     sáng gòi dậy đi
-    daayjyyyyyyyy!!!`,
+    dậyyyyyy!!!`,
     btnIntro: 'hihi',
     title: 'ủa dậy gòi nè :3',
     desc: ' hôm nay call dới t cả ngày được hong? ',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'bíc gòi nha nghịn mà con ngại =))',
     messDesc: 'Tối nay triển lun ha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
+ 
