@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Vyyyyy ớiiiii!',
     introDesc: `Dậy đi con đĩiii
     Dit Me Mayyyy
     Sáng gòi dậy đi
@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'trả lời :3',
     reply: 'Tất nhin gòi:3',
     mess: 'bíc gòi nha nghịn mà con ngại =))',
-    messDesc: 'Tối nay triển lun ha.',
+    messDesc: 'Tối nay triển lun ha nhớ ib cho tui á.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100058929501920'
 }
